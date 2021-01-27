@@ -1,0 +1,45 @@
+.collection .collection-item {
+  display: flex;
+}
+.collection-item.avatar .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ee6e73;
+  display: block;
+  margin-bottom: 20px;
+}
+.collection .collection-item img {
+  width: 150px;
+  margin-right: 25px;
+}
+.mainFormDiv {
+  float: left;
+  width: 80%;
+}
+.formTitle {
+  padding-top: 1%;
+  float: left;
+  width: 20%;
+}
+.formInput {
+  float: left;
+  width: 80%;
+}
+.btn {
+  text-transform: capitalize !important;
+}
+.radioDiv {
+  float: left;
+
+  width: 20%;
+}
+.radioOpacity {
+  float: left;
+  margin-top: 5px;
+  opacity: 1 !important;
+  margin-bottom: 50px;
+}
+.radioTitle {
+  float: left;
+  padding-left: 30px;
+}
