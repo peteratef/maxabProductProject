@@ -93,7 +93,7 @@ class Form extends Component {
             }
           }}
         >
-          <h3> {this.state.id > 0 ? "Edit Menu Item" : "Add Menu Item"}</h3>
+          <h3> {this.state.id > 0 ? "Edit Product" : "Add Product"}</h3>
           <center>
             <h6 style={{ color: "red" }}>{this.props.errorMessage}</h6>
           </center>

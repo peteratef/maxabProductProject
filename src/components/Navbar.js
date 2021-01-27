@@ -12,7 +12,7 @@ const Navbar = () => {
           <li>
             <Link to="/cart">
               <button className="waves-effect waves-light btn">
-                Add Menu Item
+                Add Product
               </button>
             </Link>
           </li>
